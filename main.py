@@ -1,6 +1,5 @@
 import requests
 from lxml import etree
-import xml.etree.ElementTree as ET
 import json
 from bs4 import BeautifulSoup
 from PIL import Image
