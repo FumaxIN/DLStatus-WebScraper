@@ -22,7 +22,7 @@ git clone git@github.com:FumaxIN/DLStatus-WebScraper.git
 Run the main file. Input `DL number`, `DOB`, `Captcha`
 
 ```shell
-python manage.py main
+python main.py
 ```
 
 
